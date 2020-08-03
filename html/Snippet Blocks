@@ -1,0 +1,51 @@
+Gallery Filter
+
+
+<!-- filter -->
+            <div class="container pb-small">
+              <div class="row">
+                <div class="col">
+                  <div class="filter js-filter text-center">
+                    <div class="filter__inner">
+                      <div class="container-fluid no-gutters">
+                        <!-- items -->
+                        <div class="row justify-content-center">
+                          <!-- all (*) -->
+                          <div class="col-xl-auto col-12 filter__item filter__item_active js-filter__item" data-filter="*">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">All Posts</div>
+                          </div>
+                          <!-- - all (*) -->
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-photography">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Photography</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-lifestyle">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Lifestyle</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-interviews">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Interviews</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-videography">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Videography</div>
+                          </div>
+                          <!-- - items -->
+                        </div>
+                        <!-- underline -->
+                        <div class="filter__underline js-filter__underline"></div>
+                        <!-- - underline -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- - filter -->
+
+---------------------------------------------------------------------------------------
+Button
+
+<div class="slider__wrapper-button-footer"><a class="button button_white button_bordered" data-hover="Click to Enter" href="collections.html" data-pjax-link="overlayMenu"><span class="button__label-hover">Collections</span></a></div>
+
+{
+  left: calc(var(--gutter-horizontal) - 20px)
+
+  https://wa.me/916283679677?text=http://aennavarun.epizy.com/lilac_lukhnawi_lehenga.html Price Please?

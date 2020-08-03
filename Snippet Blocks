@@ -1,0 +1,198 @@
+Gallery Filter
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- filter -->
+            <div class="container pb-small">
+              <div class="row">
+                <div class="col">
+                  <div class="filter js-filter text-center">
+                    <div class="filter__inner">
+                      <div class="container-fluid no-gutters">
+                        <!-- items -->
+                        <div class="row justify-content-center">
+                          <!-- all (*) -->
+                          <div class="col-xl-auto col-12 filter__item filter__item_active js-filter__item" data-filter="*">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">All Posts</div>
+                          </div>
+                          <!-- - all (*) -->
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-photography">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Photography</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-lifestyle">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Lifestyle</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-interviews">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Interviews</div>
+                          </div>
+                          <div class="col-xl-auto col-12 filter__item js-filter__item" data-filter=".category-videography">
+                            <div class="split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">Videography</div>
+                          </div>
+                          <!-- - items -->
+                        </div>
+                        <!-- underline -->
+                        <div class="filter__underline js-filter__underline"></div>
+                        <!-- - underline -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- - filter -->
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Button
+
+<div class="slider__wrapper-button-footer"><a class="button button_white button_bordered" data-hover="Click to Enter" href="collections.html" data-pjax-link="overlayMenu"><span class="button__label-hover">Collections</span></a></div>
+
+{
+  left: calc(var(--gutter-horizontal) - 20px)
+
+  https://wa.me/916283679677?text=http://aennavarun.epizy.com/lilac_lukhnawi_lehenga.html Price Please?
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+  <!-- section TESTIMONIALS -->
+          <section class="section section-testimonials bg-white pt-medium pb-medium pb-medium">
+            <div class="swiper-container slider slider-testimonials js-slider-testimonials" data-speed="2000">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="container figure-testimonial text-center">
+                    <div class="row justify-content-center">
+                      <!-- content -->
+                      <div class="col-lg-8">
+                        <div class="figure-testimonial__sign mx-auto"><img src="img/general/quote-black.svg" alt="alt"></div>
+                        <div class="slider-testimonials__text split-text js-split-text" data-split-text-type="lines" data-split-text-set="lines">
+                          <blockquote class="figure-testimonial__text">Nor themselves age introduced frequently use unsatiable devonshire get. They why quit gay cold rose deal park. One same they four did ask busy. Reserved opinions fat him nay position.</blockquote>
+                          <div class="figure-testimonial__author small-caps mt-2">Sarah Thompson
+                          </div>
+                        </div>
+                      </div>
+                      <!-- - content -->
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="container figure-testimonial text-center">
+                    <div class="row justify-content-center">
+                      <!-- content -->
+                      <div class="col-lg-8">
+                        <div class="figure-testimonial__sign mx-auto"><img src="img/general/quote-black.svg" alt="alt"></div>
+                        <div class="slider-testimonials__text split-text js-split-text" data-split-text-type="lines" data-split-text-set="lines">
+                          <blockquote class="figure-testimonial__text">Design can be art.<br>Design can be aesthetics.<br>Design is so simple, that’s why it is so complicated.</blockquote>
+                          <div class="figure-testimonial__author small-caps mt-2">Paul Rand</div>
+                        </div>
+                      </div>
+                      <!-- - content -->
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="container figure-testimonial text-center">
+                    <div class="row justify-content-center">
+                      <!-- content -->
+                      <div class="col-lg-8">
+                        <div class="figure-testimonial__sign mx-auto"><img src="img/general/quote-black.svg" alt="alt"></div>
+                        <div class="slider-testimonials__text split-text js-split-text" data-split-text-type="lines" data-split-text-set="lines">
+                          <blockquote class="figure-testimonial__text">The expertise in fashion photography is strongly influenced by our interest in architecture and our technical approach to shape light and composition. With passion, we deliver digital projects.</blockquote>
+                          <div class="figure-testimonial__author small-caps mt-2">Irene Braswell</div>
+                        </div>
+                      </div>
+                      <!-- - content -->
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="container figure-testimonial text-center">
+                    <div class="row justify-content-center">
+                      <!-- content -->
+                      <div class="col-lg-8">
+                        <div class="figure-testimonial__sign mx-auto"><img src="img/general/quote-black.svg" alt="alt"></div>
+                        <div class="slider-testimonials__text split-text js-split-text" data-split-text-type="lines" data-split-text-set="lines">
+                          <blockquote class="figure-testimonial__text">For the past four years, we've always been enjoying to experiment new technologies, working with people coming from different backgrounds and creating products that solve business & people needs.</blockquote>
+                          <div class="figure-testimonial__author small-caps mt-2">Rhye Kinsey</div>
+                        </div>
+                      </div>
+                      <!-- - content -->
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="container figure-testimonial text-center">
+                    <div class="row justify-content-center">
+                      <!-- content -->
+                      <div class="col-lg-8">
+                        <div class="figure-testimonial__sign mx-auto"><img src="img/general/quote-black.svg" alt="alt"></div>
+                        <div class="slider-testimonials__text split-text js-split-text" data-split-text-type="lines" data-split-text-set="lines">
+                          <blockquote class="figure-testimonial__text">We love to design handcrafted intefraces and stylish interactions. We believe good design solves business problems. With passion, we deliver digital projects that impact people lifes.</blockquote>
+                          <div class="figure-testimonial__author small-caps mt-2">Jacqueline Richards</div>
+                        </div>
+                      </div>
+                      <!-- - content -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- slider FOOTER -->
+              <div class="container slider-testimonials__footer mt-xsmall">
+                <div class="row justify-content-center align-items-center slider-testimonials__row no-gutters">
+                  <!-- slider DOTS -->
+                  <div class="col-auto">
+                    <div class="slider__dots js-slider__dots">
+                      <div class="slider__dot slider__dot_active">
+                        <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                        </svg>
+                      </div>
+                      <div class="slider__dot">
+                        <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                        </svg>
+                      </div>
+                      <div class="slider__dot">
+                        <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                        </svg>
+                      </div>
+                      <div class="slider__dot">
+                        <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- - slider DOTS -->
+                </div>
+              </div>
+              <!-- - slider FOOTER -->
+              <!-- slider ARROWS -->
+              <div class="slider-testimonials__arrows container-fluid">
+                <div class="slider__arrow slider__arrow_left js-slider__arrow-prev">
+                  <div class="arrow arrow-left js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+                    <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                    </svg>
+                    <div class="arrow__pointer arrow-left__pointer"></div>
+                    <div class="arrow__triangle"></div>
+                  </div>
+                </div>
+                <div class="slider__arrow slider__arrow_right js-slider__arrow-next">
+                  <div class="arrow arrow-right js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+                    <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                    </svg>
+                    <div class="arrow__pointer arrow-right__pointer"></div>
+                    <div class="arrow__triangle"></div>
+                  </div>
+                </div>
+              </div>
+              <!-- - slider ARROWS -->
+            </div>
+          </section>
+          <!-- - section TESTIMONIALS -->
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
