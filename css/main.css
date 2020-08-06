@@ -5320,7 +5320,7 @@ body.elementor-editor-active [data-arts-os-animation] {
 
 .section-image__wrapper {
 	position: relative;
-	width: 100%;
+	width: 100vw;
 	height: 100%
 }
 
